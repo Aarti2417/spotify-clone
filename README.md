@@ -43,7 +43,7 @@ A front-end clone of Spotify's web player UI built using **HTML**, **CSS**, and 
     ├── card1img.jpeg
     ├── player_icon1.png
     └── etc...
-
+    
 ---
 
 ## 🚀 How to Run
@@ -55,6 +55,9 @@ A front-end clone of Spotify's web player UI built using **HTML**, **CSS**, and 
 > 💡 This is a static frontend project and does not include any backend or music streaming functionality.
 
 ---
+
+## 🌐 Live Demo
+[Click here to view the project](https://aarti2417.github.io/spotify-clone/)
 
 ## 🙋‍♀️ Author
 
